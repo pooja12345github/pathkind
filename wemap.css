@@ -1,0 +1,107 @@
+.navbar-brand-1 {
+  color: #214c6f;
+  text-decoration: none;
+  font-size: 30px;
+}
+
+.navbar-text-1 {
+  color: #214c6f;
+
+  font-size: 15px;
+}
+.navbar-text-1 a {
+  text-decoration: none;
+  color: #214c6f;
+  font-size: 20px;
+}
+.container-fluid-1 {
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.nav-2 {
+  color: #fff;
+  background: #214c6f;
+  text-align: center;
+  justify-content: center;
+  font-size: 1rem;
+  color: #fff;
+}
+.navbar .navbar-collapse .navbar-nav .nav-link {
+  color: #fff;
+}
+
+.let {
+  text-align: center;
+  color: #214c6f;
+  margin-top: 48px;
+}
+
+.Ada li {
+  margin-top: 48px;
+  margin-bottom: 24px;
+}
+.Ada li {
+  border: 1px solid #505050;
+  padding: 2px 15px;
+  font-size: 13px;
+  background: #fff;
+  border-radius: 18px;
+  display: inline-block;
+  margin: 0px 5px 9px 0px;
+}
+.para {
+  text-align: center;
+  color: #214c6f;
+  font-size: 25px;
+}
+
+.para::after {
+  content: "";
+  border-bottom: 8px solid #ffcb03;
+  border-radius: 20px;
+  display: block;
+  margin-top: 12px;
+  box-sizing: border-box;
+  width: 4%;
+  text-align: center;
+  margin-left: 470px;
+}
+.list-itam {
+  background-color: #f4f7f8;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+.powered-me {
+  display: flex;
+}
+
+.company-powder {
+  display: flex;
+  justify-content: space-between;
+}
+.powered-me {
+  color: #214c6f;
+}
+.powered-me a {
+  color: #214c6f;
+}
+
+.fgfg{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    padding: 5px 10px;
+    background-color: #214c6f;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.gfgf{
+    background-color: #ffcb03;
+    color: #214c6f;
+}
